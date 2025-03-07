@@ -4,7 +4,7 @@
 💡 Passionate about building innovative solutions  
 🌱 Currently working on an **Aquaculture Farming App**  
 📚 Exploring **AI, Data Science, and Automation**  
-📫 Reach me at **hymarohi@gmail.com**  
+📫 Reach me at **rohithg01092003@gmail.com**  
 
 ![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gottamrohith&show_icons=true&theme=radical)  
 
@@ -17,10 +17,10 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hymarohi@gmail.com)  
+ 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithg01092003@gmail.com)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=gottamrohith&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=rohith-codes&color=blue&style=flat-square)
 
 
 
