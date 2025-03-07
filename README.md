@@ -6,9 +6,9 @@
 📚 Exploring **AI, Data Science, and Automation**  
 📫 Reach me at **rohithg01092003@gmail.com**  
 
-![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gottamrohith&show_icons=true&theme=radical)  
+![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohith-codes&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gottamrohith&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-codes&layout=compact&theme=radical)  
 
 ### 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
